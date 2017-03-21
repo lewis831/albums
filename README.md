@@ -2,7 +2,7 @@ Title: Albums, Type: React Native iOS and Android Native Application, Author: Le
 ----------
 This is full native iOS and Android app written in React Native. It renders entirely native device specific native UI through React Native JavaScript.
 
-To get started first Xcode and Android studio then install the following in terminal:
+##To get started first Xcode and Android studio then install the following in terminal:
 
 brew install node
 
@@ -22,8 +22,6 @@ cd albums
 
 react-native run-android
 
-To learn more check out the React Native documentation to further help you get started:
-
-https://facebook.github.io/react-native/docs/getting-started.html
-
+To learn more check out the React Native documentation to further help you get started: https://facebook.github.io/react-native/docs/getting-started.html
+--------
 
