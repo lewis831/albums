@@ -2,6 +2,8 @@ Title: Albums, Type: React Native iOS and Android Native Application, Author: Le
 ----------
 This is full native iOS and Android app written in React Native. It renders entirely native device specific native UI through React Native JavaScript.
 
+Click here to see a video of the app: https://www.youtube.com/watch?v=tfL7ve0JBHU
+
 1. To get started first Xcode and Android studio then install the following in terminal:
 
       brew install node
