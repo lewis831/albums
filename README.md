@@ -10,15 +10,21 @@ This is full native iOS and Android app written in React Native. It renders enti
 
       npm install -g react-native-cli
 
-2. To run on iOS simulator run the following:
+2. Next after you have downloaded the GitHub "albums" select the following:
+      
+      cd albums-master
+      
+      npm install
 
-      cd albums
+3. To run on iOS simulator run the following:
+
+      cd albums-master
 
       react-native run-ios
 
-3. To run on Android simulator run the following:
+4. To run on Android simulator run the following:
 
-      cd albums
+      cd albums-master
 
       react-native run-android
 
