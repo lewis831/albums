@@ -4,11 +4,11 @@ This is full native iOS and Android app written in React Native. It renders enti
 
 1. To get started first Xcode and Android studio then install the following in terminal:
 
-brew install node
+      brew install node
 
-brew install watchman
+      brew install watchman
 
-npm install -g react-native-cli
+      npm install -g react-native-cli
 
 2. To run on iOS simulator run the following:
 
