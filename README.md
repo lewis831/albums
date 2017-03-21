@@ -9,10 +9,12 @@ brew install watchman
 npm install -g react-native-cli
 
 To run on iOS simulator run the following:
+
 cd albums
 react-native run-ios
 
 To run on Android simulator run the following:
+
 cd albums
 react-native run-android
 
