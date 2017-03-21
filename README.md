@@ -4,7 +4,7 @@ This is full native iOS and Android app written in React Native. It renders enti
 
 Click here to see a video of the app: https://www.youtube.com/watch?v=tfL7ve0JBHU
 
-1. To get started first Xcode and Android studio then install the following in terminal:
+1. To get started first install Xcode and Android studio then install the following in terminal:
 
       brew install node
 
