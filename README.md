@@ -1,6 +1,8 @@
 Title: Albums, Type: React Native iOS and Android Native Application, Author: Lewis Rashe
 ----------
-This is full native iOS and Android app written in React Native. It renders entirely native device specific native UI through React Native JavaScript.
+This is a simple full native iOS and Android app written in React Native that pulls album data for purchase through an API. It renders entirely native device specific native UI through React Native JavaScript. 
+
+Here is the API used: http://rallycoding.herokuapp.com/api/music_albums
 
 Click here to see a video of the app: https://www.youtube.com/watch?v=tfL7ve0JBHU
 
