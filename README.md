@@ -12,16 +12,19 @@ This is full native iOS and Android app written in React Native. It renders enti
 
 2. To run on iOS simulator run the following:
 
-cd albums
+      cd albums
 
-react-native run-ios
+      react-native run-ios
 
 3. To run on Android simulator run the following:
 
-cd albums
+      cd albums
 
-react-native run-android
+      react-native run-android
 
 To learn more check out the React Native documentation to further help you get started: https://facebook.github.io/react-native/docs/getting-started.html
 --------
+
+LICENSE MIT
+-----
 
