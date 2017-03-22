@@ -1,4 +1,4 @@
-Title: Albums, Type: React Native iOS and Android Native Application, Author: Lewis Rashe
+Title: Albums, Type: React Native iOS and Android Native Mobile Application, Author: Lewis Rashe
 ----------
 This is a simple full native iOS and Android app written in React Native that pulls album data for purchase through an API. It renders entirely native device specific native UI through React Native JavaScript. 
 
