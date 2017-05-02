@@ -4,6 +4,8 @@ This is a simple full native iOS and Android app written in React Native that pu
 
 <img src="https://www.dropbox.com/s/99daahxch490aqp/IMG_0243.PNG?raw=1" width="280" height="460" /> <img src="https://www.dropbox.com/s/u8xh69ms3dah4yg/IMG_0244.PNG?raw=1" width="280" height="460" /> <img src="https://www.dropbox.com/s/jp169ikqakyh9g6/IMG_0245.PNG?raw=1" width="280" height="460" />
 
+<img src="https://www.dropbox.com/s/dvibu79ikao6pf7/Screen%20Shot%202017-05-01%20at%2011.53.52%20PM.png?raw=1" />
+
 
 Here is the API used: http://rallycoding.herokuapp.com/api/music_albums
 
