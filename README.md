@@ -6,7 +6,6 @@ This is a simple full native iOS and Android app written in React Native that pu
 
 <img src="https://www.dropbox.com/s/dvibu79ikao6pf7/Screen%20Shot%202017-05-01%20at%2011.53.52%20PM.png?raw=1" />
 
-
 Here is the API used: http://rallycoding.herokuapp.com/api/music_albums
 
 Click here to see a video of the app: https://www.youtube.com/watch?v=tfL7ve0JBHU
